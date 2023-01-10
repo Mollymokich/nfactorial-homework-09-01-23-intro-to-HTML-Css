@@ -1,0 +1,194 @@
+div {
+  height: 30px;
+}
+
+.div-1 {
+  background-color: red;
+}
+
+.div-2 {
+  background-color: blue;
+}
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.div-3 {
+  background-color: green;
+}
+
+.div-4 {
+  background-color: blue;
+}
+.container1 {
+  display: grid;
+  grid-template-columns: 5fr 0.3fr;
+}
+
+.div-5 {
+  background-color: red;
+}
+
+.div-6 {
+  background-color: green;
+}
+
+.div-7 {
+  background-color: blue;
+}
+.container2 {
+  display: grid;
+  grid-template-columns: 0.3fr 5fr 0.3fr;
+}
+
+.div-8 {
+  background-color: red;
+}
+
+.div-9 {
+  background-color: blue;
+}
+.container3 {
+  display: grid;
+  grid-template-columns: 5fr 0.3fr;
+}
+
+.div-10 {
+  position: relative;
+  background-color: green;
+}
+
+.div-11 {
+  position: absolute;
+  background-color: red;
+  height: 18px;
+  width: 18px;
+  margin-top: 1%;
+  margin-left: 47.1%;
+}
+.container4 {
+  display: grid;
+  justify-self: center;
+}
+
+.div-1a {
+  position: absolute;
+  z-index: 100;
+  background-color: red;
+  height: 30px;
+  width: 30px;
+  margin-left: 0%;
+  padding-left: 0.3fr;
+}
+
+.div-2a {
+  position: relative;
+  background-color: blue;
+  height: 10px;
+}
+
+.div-3a {
+  position: relative;
+  background-color: green;
+  height: 10px;
+}
+
+.div-4a {
+  position: relative;
+  background-color: blue;
+  height: 10px;
+}
+
+.container6 {
+  display: grid;
+  justify-self: start;
+}
+
+.div-12 {
+  background-color: red;
+}
+
+.div-13 {
+  background-color: blue;
+}
+
+.div-14 {
+  background-color: red;
+}
+.container5 {
+  display: grid;
+  grid-template-columns: 3.5fr 0.5fr 3.5fr;
+}
+
+.div-a {
+  background-color: yellow;
+}
+
+.div-b {
+  background-color: green;
+}
+.div-c {
+  background-color: yellow;
+}
+
+.div-d {
+  background-color: green;
+}
+.div-e {
+  background-color: yellow;
+}
+
+.div-j {
+  background-color: green;
+}
+.div-k {
+  background-color: yellow;
+}
+
+.div-l {
+  background-color: green;
+}
+.div-m {
+  background-color: yellow;
+}
+.container7 {
+  display: grid;
+  grid-template-columns: 4% 20% 4% 20% 4% 20% 4% 20% 4%;
+}
+
+.div-a {
+  background-color: green;
+}
+
+.div-b {
+  background-color: yellow;
+}
+.div-c {
+  background-color: green;
+}
+
+.div-d {
+  background-color: yellow;
+}
+.div-e {
+  background-color: green;
+}
+
+.div-j {
+  background-color: yellow;
+}
+.div-k {
+  background-color: green;
+}
+
+.div-l {
+  background-color: yellow;
+}
+.div-m {
+  background-color: green;
+}
+.container8 {
+  display: grid;
+  grid-template-columns: 20% 1.5% 20% 1.5% 20% 1.5% 20% 1.5% 20%;
+}
